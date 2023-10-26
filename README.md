@@ -1,4 +1,4 @@
-# <center>:file_cabinet: Project React.js 02</center>
+# :file_cabinet: Project React.js 02
 
 <br>
 
@@ -61,7 +61,7 @@ Users should be able to:
 
 - [Next.js](https://nextjs.org/ "next.js documentation")
 
-- [tailwindcss](https://tailwindcss.com/ "tailwindcss documentation")
+- [Tailwindcss](https://tailwindcss.com/ "tailwindcss documentation")
 
 ### 2. others
 
@@ -116,7 +116,7 @@ It is also recommended to install the following extensions for project organizat
 
 ## Collaborators
 
-<!-- <table>
+<table>
   <tr>
     <td align="center">
       <a href="https://github.com/eriveltondasilva">
@@ -126,14 +126,30 @@ It is also recommended to install the following extensions for project organizat
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/eriveltondasilva">
+        <img src="https://github.com/eriveltondasilva.png" min-width="200px" alt="Foto de Erivelton Silva no GitHub"/><br>
+        <sub>
+          <b>Erivelton Silva</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/eriveltondasilva">
+        <img src="https://github.com/eriveltondasilva.png" min-width="200px" alt="Foto de Erivelton Silva no GitHub"/><br>
+        <sub>
+          <b>Erivelton Silva</b>
+        </sub>
+      </a>
+    </td>
   </tr>
-</table> -->
+</table>
 
-| | |
-| :---: | :---: |
-| ![Erivelton Silva](https://github.com/eriveltondasilva.png) | ![Erivelton Silva](https://github.com/eriveltondasilva.png) |
+<!-- | | | |
+| :---: | :---: | :---: |
+| ![Erivelton Silva](https://github.com/eriveltondasilva.png) | ![Erivelton Silva](https://github.com/eriveltondasilva.png) | ![Erivelton Silva](https://github.com/eriveltondasilva.png) |
 | [Erivelton Silva](https://github.com/eriveltondasilva) | [Erivelton Silva](https://github.com/eriveltondasilva) |
-| | |
+| | | -->
 
 <br>
 
