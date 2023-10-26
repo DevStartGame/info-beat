@@ -1,94 +1,79 @@
-# <center>:file_cabinet: Projeto React.js 02</center>
+# :file_cabinet: Project React.js 02
 
 <br>
 
-## Descrição
+## Description
 
 <br>
 
 ## Table of contents
 
-- [Descrição](#descrição)
-
-<!-- - [Frontend Mentor](#frontend-mentor)
-
+- [Description](#description)
 - [Screenshot](#screenshot)
-
 - [Links](#links)
-
-- [Funcionalidades](#funcionalidades)
-
-  - [funcionalidades principais](#1-funcionalidades-principais)
-  - [funcionalidades extras](#2-funcionalidades-extras)
-
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-
-  - [bibliotecas](#1-bibliotecas)
-  - [outras](#2-outras)
-
-- [Rodando O Projeto](#rodando-o-projeto)
-
-- [Extensões Do VS Code](#extensões-do-vs-code)
-
-- [Estrutura De Pastas](#estrutura-de-pastas)
-
-- [Colaboradores](#colaboradores)
-
+- [Features](#features)
+  - [1. main features](#1-main-features)
+  - [2. extra features](#2-extra-features)
+- [Technologies Used](#technologies-used)
+  - [1. libraries](#1-libraries)
+  - [2. others](#2-others)
+- [Running the Project](#running-the-project)
+- [VSCode Extensions](#vscode-extensions)
+- [Folder Structure](#folder-structure)
+- [Collaborators](#collaborators)
 - [Git Flow](#git-flow)
-
-  - [Branches](#1-branches)
-  - [pull requests](#2-pull-requests)
-  - [commits](#3-commits)
-
-- [Status Do Projeto](#status-do-projeto) -->
+  - [1. branches](#1-branches)
+  - [2. pull requests](#2-pull-requests)
+  - [3. commits](#3-commits)
+- [Project Status](#project-status)
 
 <br>
 
 ## Screenshot
 
-![](./screenshot.png)
+![screenshot](./screenshot.png)
 
 <br>
 
 ## Links
 
-- URL do site em produção: [Add live site URL here](#)
+- Site URL in production: [URL](#)
 
 <br>
 
-## Funcionalidades
+## Features
 
-O usuários devem ser capazes de:
+Users should be able to:
 
-### 1. funcionalidades principais
+### 1. main features
 
 <!-- - [x] Ver todos os países da API na página inicial. -->
 
-### 2. funcionalidades extras
+### 2. extra features
 
 <br>
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-### 1. bibliotecas
+### 1. libraries
 
-- [React.js](https://react.dev/learn/ "documentação do react.js")
+- [React.js](https://react.dev/learn/ "react.js documentation")
 
-- [Next.js](https://nextjs.org/ "documentação do next.js")
+- [Next.js](https://nextjs.org/ "next.js documentation")
 
-- [tailwindcss](https://tailwindcss.com/ "documentação do tailwindcss")
+- [Tailwindcss](https://tailwindcss.com/ "tailwindcss documentation")
 
-### 2. outras
+### 2. others
 
-- [Sass](https://sass-lang.com/documentation/ "documentação do sass")
+- [Sass](https://sass-lang.com/documentation/ "sass documentation")
 
-- [Vite](https://vitejs.dev/guide/ "documentação do vite")
+- [Vite](https://vitejs.dev/guide/ "vite documentation")
 
 <br>
 
-## Rodando O Projeto
+## Running the Project
 
-Para rodar o repositório na sua máquina, será necessário clonar o mesmo e dar os respectivos comandos para iniciar um servidor do projeto através do Vite:
+To run the repository on your machine, you will need to clone it and give the respective commands to start a project server through Vite:
 
 ```bash
 npm install
@@ -100,55 +85,75 @@ npm run dev
 
 <br>
 
-## Extensões Do VS Code
+## VSCode Extensions
 
-Também é recomendado a instalação das seguintes extensões para a organização e padronização do projeto:
+It is also recommended to install the following extensions for project organization and standardization:
 
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
-- [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) *(opcional)*
+- [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) *(optional)*
 
-- [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) *(opcional)*
+- [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) *(optional)*
 
 <br>
 
-## Estrutura De Pastas
+## Folder Structure
 
 <br>
 
 | Folder | Description |
-| ---:   | --- |
-| `app/` | xxxxx |
-| `components/` | Componentes reutilizáveis da aplicação. Componentes que são unidades para sua aplicação, um button, um dropdown, um modal, etc. |
-| `contexts/` | xxxxx |
-| `hooks/` | Essa pasta é utilizada para armazenar hooks que são genéricos, têm interação com hooks do React (useState, useEffect) e normalmente reutilizáveis e qualquer projeto, exemplos: useScreenSize, useLocalStorage, useSessionStorage, useUserActive. |
-| `services/` | Aqui ficam as configurações de HTTP clientes, normalmente utilizando axios. |
-| `utils/` | Funções utilitárias como formatCurrency, formatPhone, convertTimezone, parsePhone (javascript puro). |
+| ---:   | :--- |
+| `app/` | Each folder within the app folder becomes an accessible route in the app. Each folder must contain at least the **page.js** and **layout.js** files. |
+| `components/` | Reusable application components. Components that are units for your application: **a button, a dropdown, a modal, etc**. |
+| `contexts/` | contains the react.js API that allows you to share data between components without the need to pass props manually. |
+| `hooks/` | This folder is used to store hooks that are generic and/or that interact with React hooks (useState, useEffect). Typically, they are reusable in any project, examples: **useScreenSize, useLocalStorage, useSessionStorage, useUserActive**. |
+| `services/` | Here are the HTTP client configurations, normally using **axios**. |
+| `utils/` | Utility functions like **formatCurrency, formatPhone, convertTimezone, parsePhone** (pure javascript). |
 
 <br>
 
-## Colaboradores
+## Collaborators
 
-<!-- <table>
+<table>
   <tr>
+    <!--  -->
     <td align="center">
       <a href="https://github.com/eriveltondasilva">
-        <img src="https://github.com/eriveltondasilva.png" min-width="200px" alt="Foto de Erivelton Silva no GitHub"/><br>
+        <img src="https://github.com/eriveltondasilva.png" width="120px" alt="Foto de Erivelton Silva no GitHub"/><br>
         <sub>
           <b>Erivelton Silva</b>
         </sub>
       </a>
     </td>
+    <!--  -->
+    <td align="center">
+      <a href="https://github.com/eriveltondasilva">
+        <img src="https://github.com/eriveltondasilva.png" width="120px" alt="Foto de Erivelton Silva no GitHub"/><br>
+        <sub>
+          <b>Erivelton Silva</b>
+        </sub>
+      </a>
+    </td>
+    <!--  -->
+    <td align="center">
+      <a href="https://github.com/eriveltondasilva">
+        <img src="https://github.com/eriveltondasilva.png" width="120px" alt="Foto de Erivelton Silva no GitHub"/><br>
+        <sub>
+          <b>Erivelton Silva</b>
+        </sub>
+      </a>
+    </td>
+    <!--  -->
   </tr>
-</table> -->
+</table>
 
-| | |
+<!-- | | | |
 | :---: | :---: | :---: |
 | ![Erivelton Silva](https://github.com/eriveltondasilva.png) | ![Erivelton Silva](https://github.com/eriveltondasilva.png) | ![Erivelton Silva](https://github.com/eriveltondasilva.png) |
-| Erivelton Silva | Erivelton Silva | Erivelton Silva |
-| --- | --- | --- |
+| [Erivelton Silva](https://github.com/eriveltondasilva) | [Erivelton Silva](https://github.com/eriveltondasilva) |
+| | | -->
 
 <br>
 
@@ -156,31 +161,32 @@ Também é recomendado a instalação das seguintes extensões para a organizaç
 
 ### 1. branches
 
-> main -» branch em produção
+> main -» branch in production
 
-> dev -» branch para desenvolvimento
+> dev -» branch for development
 
-Branches locais devem seguir o padrão:
+Local branches must follow the standard:
 *<iniciais_do_colaborador/identificador_da_task/título_da_task>*
 
-Exemplo:
+Example:
 > WA/TASK-130/Página_de_Detalhes
 
 ### 2. pull requests
 
-Cada alteração deve ser feita a partir de PR's.
-Devs devem fazer o checkout da `branch dev` e criar uma PR para a mesma (`branch dev`).
+Each change must be made from PR's.
+Devs must checkout the `branch dev` and create a PR for it (`branch dev`).
 
-Após a PR ser aprovada, o criador da PR deverá fazer o merge (`squash and merge`) e deletar a sua branch.
+After the PR is approved, the PR creator must merge (`squash and merge`) and delete their branch.
 
 ### 3. commits
 
-Ficou convencionado que não seguiremos padrão, apenas que os commits devem ser em português.
+It was agreed that we will not follow the standard, only that the commits must be in English.
 
 <br>
 
-## Status Do Projeto
+## Project Status
 
-:heavy_check_mark: Projeto finalizado :rocket::tada::tada:
+:heavy_check_mark: Project initialized (2023-25-10).
+<!-- :rocket::tada::tada: -->
 
 <br>
