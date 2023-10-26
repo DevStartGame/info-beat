@@ -31,7 +31,7 @@
 
 ## Screenshot
 
-![screenshot](./screenshot.png)
+[![screenshot](./screenshot.jpg)](https://dribbble.com/shots/21195999-InfoBeat-Article-blog-Web-App)
 
 <br>
 
