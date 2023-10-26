@@ -120,7 +120,7 @@ It is also recommended to install the following extensions for project organizat
   <tr>
     <td align="center">
       <a href="https://github.com/eriveltondasilva">
-        <img src="https://github.com/eriveltondasilva.png" max-width="100px" alt="Foto de Erivelton Silva no GitHub"/><br>
+        <img src="https://github.com/eriveltondasilva.png" width="100px" alt="Foto de Erivelton Silva no GitHub"/><br>
         <sub>
           <b>Erivelton Silva</b>
         </sub>
@@ -128,7 +128,7 @@ It is also recommended to install the following extensions for project organizat
     </td>
     <td align="center">
       <a href="https://github.com/eriveltondasilva">
-        <img src="https://github.com/eriveltondasilva.png" max-width="100px" alt="Foto de Erivelton Silva no GitHub"/><br>
+        <img src="https://github.com/eriveltondasilva.png" width="100px" alt="Foto de Erivelton Silva no GitHub"/><br>
         <sub>
           <b>Erivelton Silva</b>
         </sub>
@@ -136,7 +136,7 @@ It is also recommended to install the following extensions for project organizat
     </td>
     <td align="center">
       <a href="https://github.com/eriveltondasilva">
-        <img src="https://github.com/eriveltondasilva.png" max-width="100px" alt="Foto de Erivelton Silva no GitHub"/><br>
+        <img src="https://github.com/eriveltondasilva.png" width="100px" alt="Foto de Erivelton Silva no GitHub"/><br>
         <sub>
           <b>Erivelton Silva</b>
         </sub>
