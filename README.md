@@ -118,6 +118,7 @@ It is also recommended to install the following extensions for project organizat
 
 <table>
   <tr>
+    <!--  -->
     <td align="center">
       <a href="https://github.com/eriveltondasilva">
         <img src="https://github.com/eriveltondasilva.png" width="120px" alt="Foto de Erivelton Silva no GitHub"/><br>
@@ -126,6 +127,7 @@ It is also recommended to install the following extensions for project organizat
         </sub>
       </a>
     </td>
+    <!--  -->
     <td align="center">
       <a href="https://github.com/eriveltondasilva">
         <img src="https://github.com/eriveltondasilva.png" width="120px" alt="Foto de Erivelton Silva no GitHub"/><br>
@@ -134,6 +136,7 @@ It is also recommended to install the following extensions for project organizat
         </sub>
       </a>
     </td>
+    <!--  -->
     <td align="center">
       <a href="https://github.com/eriveltondasilva">
         <img src="https://github.com/eriveltondasilva.png" width="120px" alt="Foto de Erivelton Silva no GitHub"/><br>
@@ -142,6 +145,7 @@ It is also recommended to install the following extensions for project organizat
         </sub>
       </a>
     </td>
+    <!--  -->
   </tr>
 </table>
 
