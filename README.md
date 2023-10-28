@@ -129,10 +129,10 @@ It is also recommended to install the following extensions for project organizat
     </td>
     <!--  -->
     <td align="center">
-      <a href="https://github.com/eriveltondasilva">
-        <img src="https://github.com/eriveltondasilva.png" width="120px" alt="Foto de Erivelton Silva no GitHub"/><br>
+      <a href="https://github.com/derciojds">
+        <img src="https://github.com/derciojds.png" width="120px" alt="Foto de Dercio João no GitHub"/><br>
         <sub>
-          <b>Erivelton Silva</b>
+          <b>Dercio João</b>
         </sub>
       </a>
     </td>
