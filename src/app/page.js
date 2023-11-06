@@ -1,9 +1,9 @@
-import Image from 'next/image'
+import Image from 'next/image';
 
 export default function Home() {
   return (
-    <main className="flex flex-col items-center justify-between min-h-screen p-24">
-      <div>Olá, mundo!</div>
+    <main className=''>
+      <h1 className=''>Olá, mundo!</h1>
     </main>
-  )
+  );
 }
