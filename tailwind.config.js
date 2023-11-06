@@ -6,13 +6,24 @@ module.exports = {
     './src/app/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
+    fontFamily: {
+      inter: 'Inter, sans-serif',
+    },
     extend: {
-      backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+      textColor: {
+        skin: {
+          base: 'var(--color-text-base)',
+          muted: 'var(--color-text-muted)',
+        },
+      },
+      backgroundColor: {
+        skin: {
+          'surface-1': 'var(--color-surface-1)',
+          'surface-2': 'var(--color-surface-2)',
+          'surface-3': 'var(--color-surface-3)',
+        },
       },
     },
   },
   plugins: [],
-}
+};
